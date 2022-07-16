@@ -25,10 +25,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="verdel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=verdel&count_private=true&show_icons=true&hide_border=true" />
-</details>
+## GitHub Stats:
+
+<img align="left" alt="verdel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=verdel&count_private=true&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/verdel
 [telegram]: https://t.me/verdel
