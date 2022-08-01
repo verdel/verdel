@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there 👋, I'm Vadim Aleksandrov aka verdel
 
 ## About Me ℹ️
 
