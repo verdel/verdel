@@ -2,7 +2,7 @@
 
 ## About Me ℹ️
 
-- 💻 I'm DevOps Engineer in [CSSSR][csssr]
+- 💻 I'm DevOps Engineer at [CSSSR][csssr]
 - 📚 I'm learning Go & Kubernetes
 - 🔋 Interests: Movies & series, smart home technologies
 
