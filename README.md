@@ -26,8 +26,23 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 ## GitHub Stats:
+<div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=verdel" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=verdel&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+</div>
+<br/>
 
-<img align="left" alt="verdel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=verdel&count_private=true&show_icons=true&hide_border=true" />
+**Expand to view**
+<details>
+  <summary><b>⚡ GitHub Profile Stat</b></summary>
+  <img align="left" alt="verdel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=verdel&count_private=true&show_icons=true&hide_border=true" />
+</details>
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/verdel/"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=verdel&custom_title=Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
 
 ![](https://komarev.com/ghpvc/?username=verdel&style=for-the-badge)
 
