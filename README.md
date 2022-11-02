@@ -1,13 +1,13 @@
-## Hello there 👋, I'm Vadim Aleksandrov aka verdel
+### Hello there 👋, I'm Vadim Aleksandrov aka verdel
 
-## About Me ℹ️
+### About Me ℹ️
 
 - 💻 I'm DevOps Engineer at [CSSSR][csssr]
 - 📚 I'm learning Go & Kubernetes
 - 🔋 Interests: Movies & series, smart home technologies
 
 
-## Tech Stack:
+### Tech Stack:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,19 +19,19 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## Contact Me:
+### Contact Me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
-## GitHub Stats:
+### GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=verdel&count_private=true&show_icons=true&hide_border=true" width=400>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=verdel&show_icons=true&hide_border=true" width=400>
 </p>
 
-## GitHub Profile Stats:
+### GitHub Profile Stats:
 ![](https://komarev.com/ghpvc/?username=verdel&style=for-the-badge)
 
 [twitter]: https://twitter.com/verdel
