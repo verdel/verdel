@@ -29,6 +29,8 @@
 
 <img align="left" alt="verdel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=verdel&count_private=true&show_icons=true&hide_border=true" />
 
+![](https://komarev.com/ghpvc/?username=verdel&style=for-the-badge)
+
 [twitter]: https://twitter.com/verdel
 [telegram]: https://t.me/verdel
 [linkedin]: https://linkedin.com/in/vadim-aleksandrov
