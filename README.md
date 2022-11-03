@@ -24,6 +24,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)][telegram]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![GitHub Discussion](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][discussion]
 
 ### GitHub Stats:
 <p align="center">
@@ -37,4 +38,5 @@
 [twitter]: https://twitter.com/verdel
 [telegram]: https://t.me/verdel
 [linkedin]: https://linkedin.com/in/vadim-aleksandrov
+[discussion]: https://github.com/verdel/verdel/discussions/new?category=general
 [csssr]: https://csssr.com
