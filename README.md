@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Vadim Aleksandrov aka verdel
 
-### About Me ℹ️
+### About Me:
 
 - 💻 I'm DevOps Engineer at [CSSSR][csssr]
 - 📚 I'm learning Go & Kubernetes
