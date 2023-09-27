@@ -29,7 +29,7 @@
 ### GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=verdel&count_private=true&show_icons=true&hide_border=true" width=400>
-  <img src="https://streak-stats.demolab.com?user=verdel&hide_border=true&show_icons=true" width=400>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=verdel&show_icons=true&hide_border=true" width=400>
 </p>
 
 ### GitHub Profile Stats:
