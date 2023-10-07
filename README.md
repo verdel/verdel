@@ -28,7 +28,7 @@
 
 ### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-livid-nine-27.vercel.app/api?username=verdel&count_private=true&show_icons=true&hide_border=true" width=400>
+  <img src="https://github-readme-stats-livid-nine-27.vercel.app/api?username=verdel&show_icons=true&hide_border=true" width=400>
   <img src="https://github-readme-streak-stats-flax-theta.vercel.app?user=verdel&show_icons=true&hide_border=true" width=400>
 </p>
 
