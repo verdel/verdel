@@ -4,7 +4,7 @@
 
 - 💻 I'm DevOps Engineer at [CSSSR][csssr]
 - 📚 I'm learning Go & Kubernetes
-- 🔋 Interests: Movies & series, smart home technologies
+- 🔋 Interests: Movies, TV Series and Smart Home Technologies
 
 
 ### Tech Stack:
