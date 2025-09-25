@@ -28,8 +28,8 @@
 
 ### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats-verdel.vercel.app/api?username=verdel&show_icons=true&hide_border=true" width=400>
-  <img src="https://github-readme-streak-stats-verdel.vercel.app?user=verdel&show_icons=true&hide_border=true" width=400>
+  <img src="https://github-readme-stats.vsolar.cloud/?username=verdel&show_icons=true&hide_border=true" width=400>
+  <img src="https://github-readme-streak-stats.vsolar.cloud?user=verdel&show_icons=true&hide_border=true" width=400>
 </p>
 
 ### GitHub Profile Stats:
